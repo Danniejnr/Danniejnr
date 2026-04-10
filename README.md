@@ -30,5 +30,6 @@
 ---
 
 ## 📬 Contact & Collaboration
-* Email: [Your Email]
-* LinkedIn: [Your LinkedIn Link]
+* Email: danielmamodu32@gmail.com
+* LinkedIn: LinkedIn/in/Danniejnr
+* X: https://x.com/Dannie_jr1
