@@ -10,7 +10,7 @@ I have worked across data analysis, research, project delivery, and business ope
 
 ### [Metabolic Flux Optimization](https://github.com/Danniejnr/Metabolic-Flux-Optimization)
 
-A computational biology project using COBpy and an *E. coli* metabolic model to explore flux balance analysis and cellular growth under defined constraints.
+A computational biology project using COBRApy and an *E. coli* metabolic model to explore flux balance analysis and cellular growth under defined constraints.
 
 ### [Heart Disease Prediction](https://github.com/Danniejnr/heart-diseases-prediction)
 
