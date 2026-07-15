@@ -20,9 +20,9 @@ An end-to-end classification project covering data preparation, exploratory anal
 
 An exploratory bioinformatics project using Python to visualise synthetic gene-expression data and establish a foundation for future analysis of real transcriptomic datasets.
 
-### [Scholarship Opportunity Web Scraper](https://github.com/Danniejnr/Scholarship-Opportunity-Web-Scraper)
+### [Scholarship Opportunity Web Scraper — In Development](https://github.com/Danniejnr/Scholarship-Opportunity-Web-Scraper)
 
-A Python automation project for collecting and structuring publicly available scholarship information.
+A planned Python automation tool for collecting and structuring public scholarship information. The repository currently documents the intended design; implementation is still pending.
 
 ### [My Learning Journey](https://github.com/Danniejnr/My-learning-Journey)
 
