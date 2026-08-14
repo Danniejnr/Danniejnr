@@ -8,6 +8,10 @@ I have worked across data analysis, research, project delivery, and business ope
 
 ## Featured projects
 
+### [PDF Document Splitter Automation](https://github.com/Danniejnr/PDF-Document-Splitter-Automation)
+
+A reusable Python automation tool built from a real document-processing task. It detects section headings in large PDFs, generates page ranges automatically, splits documents into structured outputs, and produces a manifest for validation. The original workflow processed an 893-page source document into 36 state-level PDFs.
+
 ### [Metabolic Flux Optimization](https://github.com/Danniejnr/Metabolic-Flux-Optimization)
 
 A computational biology project using COBRApy and an *E. coli* metabolic model to explore flux balance analysis and cellular growth under defined constraints.
